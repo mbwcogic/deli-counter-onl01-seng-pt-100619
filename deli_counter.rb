@@ -6,6 +6,6 @@ puts "The line is currently empty."
  else
    other_deli.each do |name|
    puts "The line is currently #{name}"
-end
-
+ end
+ end
 end

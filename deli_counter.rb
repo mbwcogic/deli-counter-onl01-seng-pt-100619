@@ -12,4 +12,6 @@ puts string
  end
 end
 
-#each_with_index { |index|} (1)
+def take_a_number
+
+end

@@ -4,9 +4,10 @@ def line(array)
 if array == []
 puts "The line is currently empty."
  else
-   string = 
-   other_deli.each do |name|
-   puts "The line is currently #{name}"
+   string = "The line is currently"
+   array.each do |name|
+    string += "#{name}"
  end
+puts string
  end
 end

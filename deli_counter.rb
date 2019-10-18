@@ -4,8 +4,9 @@ def line(katz_deli)
 if []
 puts "The line is currently empty."
  else
+   other_deli=
    other_deli.each |name|
    puts "The line is currently #{name}"
 end
-
+other_deli
 end

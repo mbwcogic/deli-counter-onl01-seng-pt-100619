@@ -6,3 +6,4 @@ puts "The line is currently empty."
  else
    puts (other_deli)
 end
+end

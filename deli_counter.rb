@@ -16,3 +16,4 @@ def take_a_number(array, name)
 if array == []
   string  = "Welcome, Ada. You are number 1 in line."
 end
+end

@@ -13,7 +13,7 @@ puts string
 end
 
 def take_a_number(array, name)
-if array == []
+  array.each do |name|
   
 else 
 string  = "Welcome, Ada. You are number 1 in line." 

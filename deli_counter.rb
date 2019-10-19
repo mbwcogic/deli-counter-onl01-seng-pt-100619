@@ -23,7 +23,7 @@ if array == []
 else 
   string = "Currently serving."
   array.each do |name|
-    string += "#{array.pop}."
+    string += "#{array.delete(0)}."
  end
 end
 end

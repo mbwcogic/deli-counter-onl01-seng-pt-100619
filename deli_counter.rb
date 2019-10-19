@@ -14,7 +14,7 @@ end
 
 def take_a_number(array, name)
   
-  array >>(name)
+  array.first(name)
   #array.each do |name|
    # puts "Welcome, #{name}. You are number 1 in line." 
   

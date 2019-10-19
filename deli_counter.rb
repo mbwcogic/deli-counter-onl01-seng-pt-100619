@@ -14,8 +14,9 @@ end
 
 def take_a_number(array, name)
   array.each do |name|
+    puts 
   
-else 
+ 
 string  = "Welcome, Ada. You are number 1 in line." 
 end
 end

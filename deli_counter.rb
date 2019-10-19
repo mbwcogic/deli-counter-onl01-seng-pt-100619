@@ -22,8 +22,6 @@ if array == []
   puts "There is nobody waiting to be served!"
 else 
   string = "Currently serving."
-  array.each do |name|
     string += "#{array.shift}."
- end
 end
 end

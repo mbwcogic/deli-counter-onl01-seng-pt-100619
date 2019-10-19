@@ -16,12 +16,5 @@ def take_a_number(array, name)
   array << "name"
   puts "Welcome, #{name}. You are number #{array.length} in line."
 end
- # array >> (name)
-  #array.each do |name|
-   # puts "Welcome, #{name}. You are number 1 in line." 
-  
  
-#string  ="Welcome, Ada. You are number 1 in line." 
-end
-#puts "Welcome, Ada. You are number 1 in line."
 

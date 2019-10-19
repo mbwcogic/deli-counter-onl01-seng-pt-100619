@@ -13,5 +13,6 @@ puts string
 end
 
 def take_a_number(array, name)
-puts "Welcome, Ada. You are number 1 in line."
+if array == []
+  string  = "Welcome, Ada. You are number 1 in line."
 end

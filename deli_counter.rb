@@ -23,5 +23,6 @@ if array == []
 else 
   string = "Currently serving."
     string += "#{array.shift}."
+   puts string 
 end
 end

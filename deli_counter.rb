@@ -24,5 +24,6 @@ else
   string = "Currently serving #{name}."
   array.each do |name|
     string += "#{name}."
+ end
 end
 end

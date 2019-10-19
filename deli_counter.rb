@@ -13,7 +13,7 @@ puts string
 end
 
 def take_a_number(array, name)
-  array << "name"
+  array << "Ada"
   puts "Welcome, #{name}. You are number #{array.length} in line."
 end
  

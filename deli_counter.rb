@@ -23,7 +23,7 @@ if array == []
 else 
   string = "Currently serving."
   array.each do |name|
-    string += "#{array.shift}."
+    string += "#{array.delete}."
  end
 end
 end
